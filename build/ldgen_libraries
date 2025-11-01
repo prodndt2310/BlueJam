@@ -23,6 +23,7 @@ C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_ringbuf/libesp_ringbuf.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_mm/libesp_mm.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/vfs/libvfs.a
+C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_usb_serial_jtag/libesp_driver_usb_serial_jtag.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_vfs_console/libesp_vfs_console.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/mbedtls/mbedtls/library/libmbedtls.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/mbedtls/mbedtls/library/libmbedx509.a
@@ -35,6 +36,7 @@ C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_partit
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/app_update/libapp_update.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_app_format/libesp_app_format.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_bootloader_format/libesp_bootloader_format.a
+C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_mm/libesp_mm.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_gdbstub/libesp_gdbstub.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/driver/libdriver.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_pcnt/libesp_driver_pcnt.a
@@ -45,9 +47,8 @@ C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_sdmmc/libesp_driver_sdmmc.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/sdmmc/libsdmmc.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a
-C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_sdio/libesp_driver_sdio.a
-C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_dac/libesp_driver_dac.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_rmt/libesp_driver_rmt.a
+C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_tsens/libesp_driver_tsens.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_sdm/libesp_driver_sdm.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_i2c/libesp_driver_i2c.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_ledc/libesp_driver_ledc.a
@@ -77,7 +78,6 @@ C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/app_update
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_partition/libesp_partition.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/efuse/libefuse.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/bootloader_support/libbootloader_support.a
-C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_mm/libesp_mm.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/spi_flash/libspi_flash.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_system/libesp_system.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_common/libesp_common.a
@@ -99,6 +99,7 @@ C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/app_trace/
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_event/libesp_event.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/nvs_flash/libnvs_flash.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_phy/libesp_phy.a
+C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_usb_serial_jtag/libesp_driver_usb_serial_jtag.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_vfs_console/libesp_vfs_console.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/lwip/liblwip.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_netif/libesp_netif.a
@@ -117,9 +118,8 @@ C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/sdmmc/libsdmmc.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_sdmmc/libesp_driver_sdmmc.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a
-C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_sdio/libesp_driver_sdio.a
-C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_dac/libesp_driver_dac.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_rmt/libesp_driver_rmt.a
+C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_tsens/libesp_driver_tsens.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_sdm/libesp_driver_sdm.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_i2c/libesp_driver_i2c.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/esp_driver_ledc/libesp_driver_ledc.a
@@ -155,7 +155,10 @@ C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/nvs_sec_pr
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/perfmon/libperfmon.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/rt/librt.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/spiffs/libspiffs.a
+C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/touch_element/libtouch_element.a
+C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/usb/libusb.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/json/libjson.a
+C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/ssd1306/libssd1306.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/main/libmain.a
 C:/Espressif/frameworks/esp-idf-v5.5.1/bluetooth_jammer/build/esp-idf/ssd1306/libssd1306.a
